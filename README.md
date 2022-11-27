@@ -64,3 +64,26 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+
+
+====================================================================================================================================================================
+<Step1>php다운, php 의존성 도구인 composer설치, laravel프로젝트 생성
+https://zero-gravity.tistory.com/339
+
+<Step2>파일 구조
+https://laravel.kr/docs/8.x/structure
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=sksk3479&logNo=221056398790
+
+우선 간단 정리
+app -> routes -> web.php : 라우터 주소 설정
+app -> views -> .php : 화면을 구성한느 html
+
+
+
+
+
+
