@@ -70,7 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 
-====================================================================================================================================================================
+✏✏✏✏✏✏✏✏✏✏✏✏✏✏✏✏✏✏✏✏✏
 <Step1>php다운, php 의존성 도구인 composer설치, laravel프로젝트 생성
 https://zero-gravity.tistory.com/339
 
